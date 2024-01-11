@@ -22,10 +22,4 @@
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipemateus&show_icons=true&locale=en&theme=city_lights#gh-dark-mode-only" alt="felipemateus" />
 </a>
 
-<a href="https://github.com/felipemateus#gh-light-mode-only">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipemateus&&theme=graywhite#gh-light-mode-only" alt="felipemateus" />
-</a>
-<a href="https://github.com/felipemateus#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipemateus&theme=city_lights#gh-dark-mode-only" alt="felipemateus" />
-</a>
 

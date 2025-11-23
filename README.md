@@ -15,7 +15,7 @@ I'm a passionate software developer from Brazil who loves building innovative so
 - 🌱 Constantly learning and improving my skills
 - 👯 Looking to collaborate on **open source projects**
 - 💬 Ask me about **web development, mobile apps, and software architecture**
-- 📫 How to reach me: **[your@email.com]**
+- 📫 How to reach me: **[fmgbdev@gmail.com]**
 - ⚡ Fun fact: **I love solving complex problems with elegant code**
 
 ## 🛠️ Languages and Tools

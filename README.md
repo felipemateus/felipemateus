@@ -7,7 +7,6 @@
 
 Desenvolvedor apaixonado por construir soluções inovadoras e explorar novas tecnologias. Tenho foco em stack moderna, arquitetura limpa e estou sempre em busca de novos desafios, seja no desenvolvimento web ou mobile.
 
-- 🔭 **Atualmente:** Focado em projetos Full Stack e melhoria de performance.
 - 🌱 **Aprendendo:** Novas arquiteturas de software e Cloud Computing.
 - 👯 **Colaboração:** Aberto a projetos Open Source e parcerias inovadoras.
 - 💬 **Fale comigo sobre:** Web Dev, Mobile e Engenharia de Software.
